@@ -1,5 +1,11 @@
 <div align="center>
 
+<div>
+  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
+  </a>
+</div>
+</br>
 
 
 Olá! eu sou o Ian Carvalho🖐️
@@ -25,11 +31,7 @@ Olá! eu sou o Ian Carvalho🖐️
 
 </div>
 </br>
-<div>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
-  </a>
-</div>
+
 
   <h4>Entre em contato:</h4>
 <div style="display: inline_block> 
