@@ -6,7 +6,7 @@
 
 <h5>🎓 Cursando Engenharia de Computação</h5> 
 
-<div style="width:800px; margin:0 auto;">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=O-ian-carvalho&theme=react&rank_icon=github&show_icons=true" />
   </a>
