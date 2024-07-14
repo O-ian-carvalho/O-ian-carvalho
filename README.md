@@ -7,9 +7,6 @@
 <h5>🎓 Cursando Engenharia de Computação</h5> 
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=O-ian-carvalho&theme=react&rank_icon=github&show_icons=true" />
-  </a>
   <a href="https://github.com/anuraghazra/convoychat" target="_blank">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
