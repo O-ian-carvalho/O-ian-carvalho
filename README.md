@@ -1,11 +1,13 @@
 <div align="center>
-  
-# Olá! eu sou o Ian Carvalho🖐️
+
+<div>
+  # Olá! eu sou o Ian Carvalho🖐️
 
 <h2>Desenvolvedor <strong>Web Full Stack</strong></h2>
 
 <h5>🎓 Cursando Engenharia de Computação</h5> 
-
+</div>
+  
 
 
 <h3>Tenho conhecimento nas seguintes tecnologias:</h3>
