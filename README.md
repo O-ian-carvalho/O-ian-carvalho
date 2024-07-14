@@ -1,18 +1,13 @@
 <div align="center>
 
-<div>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
-  </a>
-</div>
 
-<div>
+
   # Olá! eu sou o Ian Carvalho🖐️
 
 <h2>Desenvolvedor <strong>Web Full Stack</strong></h2>
 
 <h5>🎓 Cursando Engenharia de Computação</h5> 
-</div>
+
   
 
 
@@ -30,6 +25,12 @@
 
 </div>
 </br>
+<div>
+  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
+  </a>
+</div>
+
   <h4>Entre em contato:</h4>
 <div style="display: inline_block> 
   <a href="https://instagram.com/iancarvalho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
