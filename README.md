@@ -6,11 +6,7 @@
 
 <h5>🎓 Cursando Engenharia de Computação</h5> 
 
-<div>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
-  </a>
-</div>
+
 
 <h3>Tenho conhecimento nas seguintes tecnologias:</h3>
 
@@ -33,5 +29,9 @@
   <a href="https://www.linkedin.com/in/o-ian-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<div>
+  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=O-ian-carvalho&layout=compact&langs_count=8&card_width=320&theme=react" />
+  </a>
+</div>
 </div>
