@@ -1,8 +1,8 @@
 <div align="center>
 
-</br>
 
-  # Olá! eu sou o Ian Carvalho🖐️
+
+Olá! eu sou o Ian Carvalho🖐️
 
 <h2>Desenvolvedor <strong>Web Full Stack</strong></h2>
 
