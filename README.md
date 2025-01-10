@@ -28,7 +28,7 @@ Olá! eu sou o Ian Carvalho🖐️
   <img align="center" alt="ian" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s">
   <img align="center" alt="ian" height="30" width="55" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
   <img align="center" alt="ian" height="30" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XeELcp51xMR6GcbG86ssM_CLpG0QqiN9dw&s">
-  <img align="center" alt="ian" height="30" width="60" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XeELcp51xMR6GcbG86ssM_CLpG0QqiN9dw&s](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original-wordmark.svg)">
+  <img align="center" alt="ian" height="30" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XeELcp51xMR6GcbG86ssM_CLpG0QqiN9dw&s">
 
 </div>
 </br>
